@@ -1,0 +1,21 @@
+.hostel-num-div{
+    
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 25px;
+    -webkit-transform: translate(-50%, 50%);
+    transform: translate(-50%, 50%);
+    position: absolute;
+    top: 20%;
+    left: 50%;
+}
+
+.hostel-num-div button{
+    height: 100px;
+    width: 100px;
+    border-radius: 16px;
+    background-color: rgb(135, 137, 139);
+    font-size: 40px;
+    color: white;
+    font-style: bold;
+}

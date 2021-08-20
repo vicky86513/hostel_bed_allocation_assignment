@@ -1,0 +1,30 @@
+.choose-hostel{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+    margin: 40px;
+    margin-top: 100px;
+}
+
+#btn-g{
+    border-radius: 16px;
+    background-color: rgb(238, 208, 247);
+    padding: 10px 70px;
+}
+
+#btn-g img{
+    border-radius: 50%;
+    margin-top: 20px;
+}
+
+#btn-b{
+    border-radius: 16px;
+    background-color: rgb(169, 236, 238);
+    padding: 10px 70px;
+}
+
+#btn-b img{
+    border-radius: 50%;
+    margin-top: 20px;
+}

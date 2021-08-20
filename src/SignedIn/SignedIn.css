@@ -1,0 +1,16 @@
+.room-booked-div{
+    border: 3px solid black;
+    border-radius: 20px;
+    margin: 10px 250px;
+    padding: 20px;
+    
+    
+}
+
+.room-booked-div h3, h5{
+    text-align: left;
+}
+
+.room-booked-div span{
+    color: red;
+}
